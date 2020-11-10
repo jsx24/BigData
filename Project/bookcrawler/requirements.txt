@@ -1,0 +1,5 @@
+redis==3.4.1
+scrapy_dynamodb==0.2.3
+Scrapy==2.0.0
+scrapy_redis==0.6.8
+boto3==1.16.13
